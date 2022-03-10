@@ -33,9 +33,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=D00B862F-4702-4BFE-821E-45FC7637B2D6
-VaultGUID=448BFE64-EF80-4116-B141-18B804F37848
-ReleaseVaultName=Pack Bionics
+ManagedProjectGUID=
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=448BFE64-EF80-4116-B141-18B804F37848&ItemGUID=E91BC1D2-103E-460F-B970-43609CBE4364&RevisionGUID=30527E8A-0269-4B4A-9E58-5A04A2B21409&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
