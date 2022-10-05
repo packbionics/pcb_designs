@@ -96,7 +96,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JYQAFAOK
+DocumentUniqueId=
 
 [Document4]
 DocumentPath=..\..\Pack_Bionics_IntLib\Pack_Bionics_SchLib.SchLib
@@ -113,7 +113,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QXGRBBSC
+DocumentUniqueId=
 
 [Parameter1]
 Name=Revision
